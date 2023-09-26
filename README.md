@@ -1,3 +1,5 @@
 # design-patterns
 
-**npm install (bold)**
+```
+npm install
+```
